@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gilsneedit/static/css/main.ebb1d3c6.css",
+    "main.js": "/gilsneedit/static/js/main.476e1242.js",
+    "static/js/787.3f4750b4.chunk.js": "/gilsneedit/static/js/787.3f4750b4.chunk.js",
+    "static/media/background_home2.jpg": "/gilsneedit/static/media/background_home2.257e9481b1273336d9d4.jpg",
+    "static/media/background_splashscreen.jpg": "/gilsneedit/static/media/background_splashscreen.226de998c83e88a3b33a.jpg",
+    "static/media/image_6.png": "/gilsneedit/static/media/image_6.2235c4f8e59a5a5db768.png",
+    "static/media/image_5.png": "/gilsneedit/static/media/image_5.1ec9989a2f34e35594a2.png",
+    "static/media/image_7.png": "/gilsneedit/static/media/image_7.0e9634609625dec80e93.png",
+    "static/media/image_2.png": "/gilsneedit/static/media/image_2.eaf4fa47c770618eda71.png",
+    "static/media/image_12.png": "/gilsneedit/static/media/image_12.e7d32bdadf82b4bebdda.png",
+    "static/media/image_16.png": "/gilsneedit/static/media/image_16.04db8d358c8142e58109.png",
+    "static/media/image_3.png": "/gilsneedit/static/media/image_3.e334f19353128d1a050b.png",
+    "static/media/image_4.png": "/gilsneedit/static/media/image_4.da9a2915adac3b44cd27.png",
+    "static/media/image_11.png": "/gilsneedit/static/media/image_11.bada527d9512b77dc237.png",
+    "static/media/image_15.png": "/gilsneedit/static/media/image_15.60432db3699e6cdaf32e.png",
+    "static/media/image_9.png": "/gilsneedit/static/media/image_9.79cd927e9581205b3527.png",
+    "static/media/image_17.png": "/gilsneedit/static/media/image_17.259d5fae9693ecd45e64.png",
+    "static/media/image_8.png": "/gilsneedit/static/media/image_8.55e22008ae97cb8536f6.png",
+    "static/media/image_1.png": "/gilsneedit/static/media/image_1.d1c63f55740a80502165.png",
+    "static/media/image_14.png": "/gilsneedit/static/media/image_14.99deb3201b89c21fd304.png",
+    "static/media/image_10.png": "/gilsneedit/static/media/image_10.5bebeb7b4484dc4bda00.png",
+    "static/media/image_13.png": "/gilsneedit/static/media/image_13.4a3bbee7062a6ad5f6a8.png",
+    "static/media/icon_instagram.png": "/gilsneedit/static/media/icon_instagram.a21c478fe9427a20d0db.png",
+    "static/media/icon_shopee.png": "/gilsneedit/static/media/icon_shopee.c52936cae4b6f341e393.png",
+    "static/media/Logo_gilsneedit.png": "/gilsneedit/static/media/Logo_gilsneedit.d68507a73c7075014810.png",
+    "index.html": "/gilsneedit/index.html",
+    "main.ebb1d3c6.css.map": "/gilsneedit/static/css/main.ebb1d3c6.css.map",
+    "main.476e1242.js.map": "/gilsneedit/static/js/main.476e1242.js.map",
+    "787.3f4750b4.chunk.js.map": "/gilsneedit/static/js/787.3f4750b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb1d3c6.css",
+    "static/js/main.476e1242.js"
+  ]
+}
