@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gilsneedit/static/css/main.ebb1d3c6.css",
-    "main.js": "/gilsneedit/static/js/main.476e1242.js",
+    "main.js": "/gilsneedit/static/js/main.9af862b2.js",
     "static/js/787.3f4750b4.chunk.js": "/gilsneedit/static/js/787.3f4750b4.chunk.js",
     "static/media/background_home2.jpg": "/gilsneedit/static/media/background_home2.257e9481b1273336d9d4.jpg",
     "static/media/background_splashscreen.jpg": "/gilsneedit/static/media/background_splashscreen.226de998c83e88a3b33a.jpg",
@@ -27,11 +27,11 @@
     "static/media/Logo_gilsneedit.png": "/gilsneedit/static/media/Logo_gilsneedit.d68507a73c7075014810.png",
     "index.html": "/gilsneedit/index.html",
     "main.ebb1d3c6.css.map": "/gilsneedit/static/css/main.ebb1d3c6.css.map",
-    "main.476e1242.js.map": "/gilsneedit/static/js/main.476e1242.js.map",
+    "main.9af862b2.js.map": "/gilsneedit/static/js/main.9af862b2.js.map",
     "787.3f4750b4.chunk.js.map": "/gilsneedit/static/js/787.3f4750b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb1d3c6.css",
-    "static/js/main.476e1242.js"
+    "static/js/main.9af862b2.js"
   ]
 }
