@@ -103,8 +103,6 @@ function Main({ screenDimensions }) {
         display: "flex",
         flexDirection: "column",
         padding: 5,
-        paddingTop:
-          screenDimensions === 0 || screenDimensions === 1 ? "5%" : "",
       }}
     >
       <img
